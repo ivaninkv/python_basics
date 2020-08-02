@@ -1,3 +1,7 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/ivaninkv/python_basics?branch=master)](https://bettercodehub.com/results/ivaninkv/python_basics)
+
+[![Travis CI](https://travis-ci.com/ivaninkv/python_basics.svg?branch=master)](https://travis-ci.com/github/ivaninkv/python_basics)
+
 # Python: основы и применение
 
 Курс посвящен базовым принципам языка Python и программирования в целом. Он хорошо подойдет тем, кто уже может писать простейшие программы на Python или тем, кто до этого программировал на других языках.
