@@ -1,0 +1,13 @@
+5
+Obj
+A : Obj
+B : A
+C : A
+D : B C
+6
+A B
+B D
+C D
+D A
+A D
+A A

@@ -2,7 +2,7 @@ from queue import Queue
 
 
 def is_relation(clss, parent, child):
-    parents = clss[child]
+    parents = clss.get(child)
     if parent in clss and child in clss:
         if (parents is not None and parent in parents) or (parent == child):
             return True
