@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7ca1c0a932443a28abe02d41a5a466c)](https://app.codacy.com/manual/ivanin.k/python_basics?utm_source=github.com&utm_medium=referral&utm_content=ivaninkv/python_basics&utm_campaign=Badge_Grade_Dashboard)
 [![BCH compliance](https://bettercodehub.com/edge/badge/ivaninkv/python_basics?branch=master)](https://bettercodehub.com/results/ivaninkv/python_basics)
 
 [![Travis CI](https://travis-ci.com/ivaninkv/python_basics.svg?branch=master)](https://travis-ci.com/github/ivaninkv/python_basics)
