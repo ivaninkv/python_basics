@@ -1,4 +1,4 @@
-import module2 as m2
+import module1_2 as m2
 
 
 def test_int_list():

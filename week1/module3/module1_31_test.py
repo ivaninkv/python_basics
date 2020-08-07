@@ -1,4 +1,4 @@
-import module31 as m3
+import module1_31 as m3
 
 
 def test_int():

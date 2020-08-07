@@ -1,4 +1,4 @@
-import module32 as tm  # tested module
+import module1_32 as tm  # tested module
 
 
 def test_int():

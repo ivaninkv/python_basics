@@ -1,4 +1,4 @@
-import module1 as m1
+import module1_1 as m1
 
 
 def test_sample():

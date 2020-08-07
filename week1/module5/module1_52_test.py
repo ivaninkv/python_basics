@@ -1,4 +1,4 @@
-import module52 as tm
+import module1_52 as tm
 
 
 def test_bfr(capsys):

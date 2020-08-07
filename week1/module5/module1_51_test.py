@@ -1,4 +1,4 @@
-import module51 as tm
+import module1_51 as tm
 
 
 def test_money_box():
