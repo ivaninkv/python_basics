@@ -1,5 +1,5 @@
 import pytest
-import module1 as tm
+import module2_1 as tm
 
 
 def test_foo(capsys):

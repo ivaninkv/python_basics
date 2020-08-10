@@ -1,0 +1,5 @@
+2
+ArithmeticError
+ZeroDivisionError : ArithmeticError AssertError
+1
+ZeroDivisionError
