@@ -1,4 +1,4 @@
-import week3.module3.module3_31 as tm
+import module3_301 as tm
 
 
 if __name__ == "__main__":
