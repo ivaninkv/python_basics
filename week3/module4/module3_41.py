@@ -16,7 +16,6 @@ def get_urls(url):
 
 
 def find_intersect(url_a, url_b, max_depth=10, depth=1):
-    print(url_a)
     finded_urls = get_urls(url_a)
     if depth <= max_depth:
         if url_b in finded_urls:
@@ -31,9 +30,18 @@ def find_intersect(url_a, url_b, max_depth=10, depth=1):
 
 def main():
     urls = input_data()
-    found, depth = find_intersect(urls[0], urls[1], 2)
-    print(found, depth)
-    print('Yes' if found and depth == 2 else 'No')
+    # found, depth = find_intersect(urls[0], urls[1], 2)
+    # print('Yes' if found and depth == 2 else 'No')
+
+    # solution for stepik.org
+    founded = False
+    second_page_urls = []
+    first_page_urls = get_urls(urls[0])
+    for url in first_page_urls:
+        second_page_urls.extend(get_urls(url))
+    founded = urls[1] in second_page_urls
+
+    print('Yes' if founded else 'No')
 
 
 if __name__ == "__main__":
